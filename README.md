@@ -7,4 +7,4 @@ Application réalisée avec Streamlit pour l'analyse et la prédiction de série
 Amine LAASRI
 
 ## Lien de l'application
-👉 À venir (déploiement Streamlit)
+https://projet-series-temporelles-amine-g62jbhm2fqcdr3rgxzgjb8.streamlit.app
