@@ -9,7 +9,8 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 st.title("Analyse et Prédiction de Séries Temporelles")
 st.markdown("""
 Cette application permet de visualiser, analyser et prédire une série temporelle.
-**Auteur :** Radja KURNIAWAN
+**Auteur :** Amine LAASRI
+
 """)
 
 st.sidebar.header("1. Chargement des données")
